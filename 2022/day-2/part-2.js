@@ -76,7 +76,7 @@ try {
 }
 
 let gameArray = data.split("\n");
-// console.log(movesArray);
+// console.log(gameArray);
 
 for (let i = 0; i < gameArray.length; i++) {
   // console.log(`Opponent move is ${gameArray[i].charAt(0)}`);
